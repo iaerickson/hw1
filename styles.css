@@ -1,0 +1,26 @@
+body  {
+    background-image: url("texture.jpg");
+    background-color: #cabfbf;
+  }
+
+  .header {
+    background: red;
+    height: 85px;
+    margin-top: -8px;
+    border: 0px solid blue;
+  } 
+
+  .nametab {
+      font-family: Helvetica, Arial, sans-serif;
+      color: white;
+      font-size: 36px;
+      text-align: center;
+      background: lightblue;
+      height: 85px;
+      width: 240px;
+      padding-top: 8px;
+      margin-left: 80px;
+      margin-top: -8px;
+      float: left;
+
+  }
