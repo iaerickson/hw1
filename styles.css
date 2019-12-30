@@ -3,8 +3,8 @@ body  {
     background-color: #cabfbf;
   }
 
-  .header {
-    background: red;
+  .leadbanner {
+    background: white;
     height: 85px;
     margin-top: -8px;
     border: 0px solid blue;
@@ -23,4 +23,33 @@ body  {
       margin-top: -8px;
       float: left;
 
+  }
+
+  .linkgrouper {
+    font-family: Helvetica, Arial, sans-serif;
+    color: grey;
+    margin-left: 5px;
+    padding-left: 5px;
+    border-right: 1px solid grey;
+    padding-right: 10px;
+    
+  }
+
+  .aboutmebox {
+    background-color: white;
+    width: 960px;
+    border: 1px solid grey;
+    padding: 5px;
+    margin: 100px;
+  }
+
+  .aboutmeheader {
+    color: lightblue;
+    border-bottom: 3px solid grey;
+    margin-bottom: 20px;
+  }
+
+  .aboutmeimg {
+    padding-right: 16px;
+    float: left;
   }
